@@ -1,0 +1,36 @@
+---
+content_type: page
+title: Readings
+uid: faa680e5-c6d5-754a-0132-cb87e036337f
+---
+
+  
+ 
+
+| Lec # | TOPICS | READINGS |
+| --- | --- | --- |
+| 1 | In Depth, Introduction, 2-7 | Hoaglund, Edward. "What I Think, What I Am." _The New York Times Book Review_, June 27, 1976.  {{< br >}}  {{< br >}}Didion, Joan. "On Keeping a Notebook." In _Slouching Towards Bethlehem: Essays_. New York, NY: Farrar Straus Giroux, 1990. ISBN: 9780374521721.  {{< br >}}  {{< br >}}Menard, Louis, and Robert Atwan, eds. _The Best American Essays 2004_. Boston, MA: Houghton Mifflin, 2004. Foreword, ix-xiii; and Introduction, xiv-xviii. ISBN: 9780618357093. |
+| 2 | In Depth, Discussion of Bacon, Montaigne and White Essays | Bacon, Francis. "Of Marriage and Single Life." In _Essays, Civil and Moral. The Harvard Classics. 1909-14_. (A version of "[Of Marriage and Single Life](http://www.bartleby.com/3/1/8.html)" is available through Bartleby.com.)  {{< br >}}  {{< br >}}de Montaigne, Michel. "Of Idleness." (A version of "[Of Idleness](http://onlinebooks.library.upenn.edu/webbin/gutbook/lookup?num=3582)" is available at Project Gutenberg.)  {{< br >}}  {{< br >}}White, E. B. "The Essayist and the Essay." In _Essays of E. B. White_. New York, NY: Harper Collins Publishers Inc. (now owned by Addison Wesley Longman), 1977, pp. 30-31. ISBN: 9780060145767. |
+| 3 | Discussion of Fadiman and Gopnik Essays | Fadiman, Anne. "Mail."  {{< br >}}  {{< br >}}Gopnik, Adam. "The Unreal Thing." In _The Best American Essays_. Edited by Louis Menard, and Robert Atwan. Boston, MA: Houghton Mifflin, 2004. ISBN: 9780618357093. |
+| 4 | In Depth, Discussion of Didion, Walker and White Essays | Didion, Joan. "On the Road." In _The White Album_. New York, NY: Farrar Straus Giroux, 1990. ISBN: 9780374522216.  {{< br >}}  {{< br >}}Walker, Alice. "Am I Blue?" In _Alice Walker Banned_. San Francisco, CA: Aunt Lute Books, 1996. ISBN: 9781879960473.  {{< br >}}  {{< br >}}White, E. B. "Once More to the Lake." In _Essays of E. B. White_. New York, NY: Harper Collins Publishers Inc. (now owned by Addison Wesley Longman), 1977. ISBN: 9780060145767. |
+| 5 | Workshop of Essays Submitted on Lec #4 | &nbsp; |
+| 6 | In Depth, Discussion of Oates and Chetkovich Essays | Oates, Joyce Carol. "(Woman) Writer: Theory and Practice." In _(Woman) Writer: Occasions and Opportunities_. New York, NY: Plume, 1989. ISBN: 9780525484943.  {{< br >}}  {{< br >}}Chetkovich, Kathryn. "Envy." _The Best American Essays 2004_. Edited by Louis Menard, and Robert Atwan. Boston, MA: Houghton Mifflin, 2004. ISBN: 9780618357093. |
+| 7 | Workshop of Essays Submitted on Lec #6 | &nbsp; |
+| 8 | In Depth, Discussion of Mairs, Gould and Orwell Essays | Mairs, Nancy. "On Not Liking Sex." In: Merton, Andrew. _In Your Own Voice: A Writer's Reader_. New York, NY: Longman Press, 1997. ISBN: 9780065017632.  {{< br >}}  {{< br >}}Gould, Stephen Jay. "A Biological Homage to Mickey Mouse." In _The Panda's Thumb: More Reflections in Natural History_. New York, NY: W.W. Norton, 1992. ISBN: 9780393308198.  {{< br >}}  {{< br >}}Orwell, George. "Politics and the English Language." In _The Collected Essays, Journalism and Letters of George Orwell_. New York, NY: Harcourt Brace Jovanovich, 1968. (First published: London, UK: Horizon, April 1946. Reprinted in George Orwell.) |
+| 9 | Workshop of Essays Submitted on Lec #8 | &nbsp; |
+| 10 | Discussion of Diamond, Fadiman and Pollan Essays | Diamond, Jared. "The Last Americans." In _The Best American Essays 2004_. Edited by Louis Menard, and Robert Atwan. Boston, MA: Houghton Mifflin, 2004. ISBN: 9780618357093.  {{< br >}}  {{< br >}}Fadiman, Anne. "The Arctic Hedonist." In _The Best American Essays 2004_. Edited by Louis Menard, and Robert Atwan. Boston, MA: Houghton Mifflin, 2004. ISBN: 9780618357093.  {{< br >}}  {{< br >}}Pollan, Michael. "Why Mow? The Case Against Lawns." _New York Times_, May 28, 1989, section 6, p. 22. |
+| 11 | In Depth, Discussion of Oates, Wolfe and White Essays | Oates, Joyce Carol. "Blood, Neon, and Failure in the Desert." In _(Woman) Writer: Occasions and Opportunities_. New York, NY: Plume, 1989. ISBN: 9780525484943. (Originally published in _The Village Voice_. March 24, 1987. Reprinted in Joyce Carol Oates.)  {{< br >}}  {{< br >}}Wolfe, Tom. "O Rotten Gotham-Sliding Down into the Behavioral Sink." In _Valence and Vision: A Reader in Psychology_. Edited by Rich Jones, and Richard L. Roe. New York, NY: Rinehart, 1974. ISBN: 9780030084164.  {{< br >}}  {{< br >}}White, E. B. "The Age of Dust." In _Poems and Sketches of E. B. White_. New York, NY: Harper Collins, 1983. ISBN: 9780060909697. |
+| 12 | In Depth, Discussion of Dillard, Woolf, Eiseley and Doyle Essays | Dillard, Annie. "The Death of a Moth." In _The Norton Sampler: Short Essays for Composition_. New York, NY: Norton, 2003. ISBN: 9780393978827.  {{< br >}}  {{< br >}}Woolf, Virginia. "The Death of the Moth." In _The Death of the Moth and Other Essays_. Berkeley, CA: Harvest Books, 1974. ISBN: 9780156252348.  {{< br >}}  {{< br >}}Eiseley, Loren. "The Bird and the Machine." In _The Immense Journey: An Imaginative Naturalist Explores the Mysteries of Man and Nature_. New York, NY: Vintage Books, 1959. ISBN: 9780394701578.  {{< br >}}  {{< br >}}Doyle, Brian. "Yes." _The Georgia Review_ LVI, no. 2 (Summer 2002): 569. |
+| 13 | Workshop of Essays Submitted on Lec #12 | &nbsp; |
+| 14 | Discussion of Mori and Koestenbaum Essays | Mori, Kyoko. "Yarn." In _The Best American Essays 2004_. Edited by Louis Menard, and Robert Atwan. Boston, MA: Houghton Mifflin, 2004. ISBN: 9780618357093.  {{< br >}}  {{< br >}}Koestenbaum, Wayne. "Called me. My '80s." _Artforum International_ 41, no. 8 (April 2003): 220-224. |
+| 15 | Workshop of Essays Submitted on Lec #14 | &nbsp; |
+| 16 | Oral Presentations | &nbsp; |
+| 17 | Workshop of Essays Submitted on Lec #16 | &nbsp; |
+| 18 | Workshop of Essays Submitted on Lec #17 | &nbsp; |
+| 19 | Discussion of Allen and Walker Essays | Allen, Woody. "Random Reflections of a Second-Rate Mind," and Walker, Alice. "Beauty: When the Other Dancer is the Self." In _In Depth: Essayists for Our Time_. Compiled by Carl H. Klaus, Chris Anderson, and Rebecca Blevins Faery. 2nd ed. Heinle, 1993. ISBN: 9780155001725.  {{< br >}}  {{< br >}}Gopnik, Adam. "Bumping into Mr. Ravioli," and Doyle, Brian. "Yes." In _The Best American Essays 2003_. Edited by Anne Fadiman and Robert Atwan. Boston, MA: Houghton Mifflin, 2003. ISBN: 9780618341610. |
+| 20 | Silent Reading Session | &nbsp; |
+| 21 | Workshop of Essays Submitted on Lec #19 | &nbsp; |
+| 22 | Discussion of Orwell, Twain, White, and Woolf Essays | Orwell, George. "Marrakech," Twain, Mark. "Corn-Pone Opinions," White, E.B. "The Ring of Time," and Woolf, Virginia. "The Moment: Summer's Night," all In _In Depth: Essayists for Our Time_ . Compiled by Carl H. Klaus, Chris Anderson, and Rebecca Blevins Faery. 2nd ed. Heinle, 1993. ISBN: 9780155001725. |
+| 23 | Silent Reading Session | &nbsp; |
+| 24 | Course Summary and Evaluations | &nbsp; |
+| 25 | Last Class: Tea and Celebratory Reading |
